@@ -1,2 +1,5 @@
 # projetos-javascript
-Alguns projetos javascript com node, typescript, entre outros
+Esse repositório contém alguns projetos de estudos.
+
+Os projetos são desenvolvidos com javascript, node.js, typescript, entre outros.
+
